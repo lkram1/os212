@@ -4,3 +4,14 @@
 ZCZC W00 L03 GitHub Related
 ZCZC W00 120 L02 ZOOM meetings
 ZCZC W00 20 L10 working with assignment #00
+
+# WEEK 01
+
+ZCZC W01 10 L08 Asking asdos some stuff
+ZCZC W01 120 L11 Working with assignment #01 
+ZCZC W01 90 L02 ZOOM meetings
+ZCZC W01 20 L28 trying to understand how this works
+
+
+
+ 
