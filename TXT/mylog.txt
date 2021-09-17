@@ -12,6 +12,9 @@ ZCZC W01 120 L11 Working with assignment #01
 ZCZC W01 90 L02 ZOOM meetings
 ZCZC W01 20 L28 trying to understand how this works
 
+# WEEK 02
 
+ZCZC W02 30 L12 Doing assignment #02
+ZCZC W02 60 L06 Reading some stuff about security 
 
  
