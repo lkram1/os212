@@ -18,3 +18,7 @@ ZCZC W02 30 L12 Doing assignment #02
 ZCZC W02 60 L06 Reading some stuff about security 
 
  
+# WEEK 03
+
+ZCZC W03 60 L09 Doing assignment #03
+ZCZC W03 120 L06 Reading week 3 materials
