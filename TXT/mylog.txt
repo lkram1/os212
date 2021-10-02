@@ -22,3 +22,10 @@ ZCZC W02 60 L06 Reading some stuff about security
 
 ZCZC W03 60 L09 Doing assignment #03
 ZCZC W03 120 L06 Reading week 3 materials
+
+
+#WEEK 04
+
+ZCZC W04 30 L14 Doing assignment #04
+ZCZC W04 60 L30 Learning about memory management but with empty results :(
+ZCZC W04 120 L80 watching youtube my g B)
