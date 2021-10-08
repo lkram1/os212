@@ -29,3 +29,8 @@ ZCZC W03 120 L06 Reading week 3 materials
 ZCZC W04 30 L14 Doing assignment #04
 ZCZC W04 60 L30 Learning about memory management but with empty results :(
 ZCZC W04 120 L80 watching youtube my g B)
+
+#WEEK 05
+
+ZCZC W05 30 L09 ordering the print function
+ZCZC W05 120 L02 learning about page replacement and midterm questions
