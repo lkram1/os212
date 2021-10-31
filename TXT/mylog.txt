@@ -34,3 +34,8 @@ ZCZC W04 120 L80 watching youtube my g B)
 
 ZCZC W05 30 L09 ordering the print function
 ZCZC W05 120 L02 learning about page replacement and midterm questions
+
+#WEEK 06
+
+ZCZC W06 30 L09 Doing the w06 task
+ZCZC W06 120 L02 learning about forks and final exams questions
