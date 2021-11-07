@@ -39,3 +39,7 @@ ZCZC W05 120 L02 learning about page replacement and midterm questions
 
 ZCZC W06 30 L09 Doing the w06 task
 ZCZC W06 120 L02 learning about forks and final exams questions
+
+#WEEK07
+ZCZC W07 30 L17 Doing the w07 task
+ZCZC W07 120 L30 learning about deadlock and synchronization
