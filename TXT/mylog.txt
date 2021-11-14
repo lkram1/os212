@@ -43,3 +43,8 @@ ZCZC W06 120 L02 learning about forks and final exams questions
 #WEEK07
 ZCZC W07 30 L17 Doing the w07 task
 ZCZC W07 120 L30 learning about deadlock and synchronization
+
+#WEEK08
+ZCZC W08 200 L18 Doing chapter 4 & 5
+
+
